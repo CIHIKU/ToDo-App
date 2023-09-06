@@ -1,0 +1,67 @@
+﻿## ASP.NET Core ##
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Rider IDE (JetBrains)
+.idea/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Tye
+.tye/
+
+# User-specific files
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## JetBrains IDE ##
+# User-specific cache
+.idea/**/caches/
+
+# Passwords
+.idea/**/dataSources.ids
+.idea/**/datasources.local.xml
+
+# User-specific local history (not shared with others)
+.idea/workspace.xml
+
+# JetBrains auto-created XML file; contains per-user state and configuration, and can be ignored
+.idea/**/dataSources/
+.idea/**/dataSources.ids.journal/
+.idea/**/dataSources.local.xml
+
+# Rider-specific settings
+.idea/**/codeStyles/CodeStyleConfig.xml
+.idea/**/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/
+
+# Folder config file
+.idea/modules.xml
+.idea/*.iml
+
+# Windows Batch
+*.bat
